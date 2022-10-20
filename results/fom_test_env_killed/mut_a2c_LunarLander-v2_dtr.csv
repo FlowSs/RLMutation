@@ -1,0 +1,13 @@
+Mutation;[-13.125, 0.6];[-10.0, 0.22499999999999998];[-1.875, 0.6];[-10.0, 4.828125];[-11.953125, 0.365625];[-13.125, 4.828125];[-1.875, 0.22499999999999998];[-7.96875, 1.65703125];[-10.0, 0.6];Total
+ILF;True;True;True;True;True;True;True;True;True;9
+MSU;True;True;True;True;True;True;True;True;True;9
+MTS;False;True;True;True;False;False;False;True;False;4
+M_1.0;True;True;True;True;True;True;True;True;True;9
+NDF;True;True;True;True;True;False;False;True;True;7
+NR;True;True;True;True;True;True;True;True;True;9
+PAC_ReLU;False;True;True;True;False;True;True;True;True;7
+PAC_Sigmoid;True;True;True;True;True;False;False;True;False;6
+POC_SGD;True;True;True;True;True;True;True;True;True;9
+Ra_1.0;True;True;True;True;True;True;True;True;True;9
+RN_1.0;False;False;True;False;False;False;True;True;True;4
+R_1.0;True;False;False;False;False;False;False;True;False;2

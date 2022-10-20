@@ -1,0 +1,434 @@
+################################################
+################### CARTPOLE ###################
+################################################
+
+################
+###    PPO   ###
+################
+
+Environement: CartPole-v1, Model ppo, Mutation ILF
+Average Mutated/Healthy Ratio Test : 1.0
+Reward Distribution Test : Killed
+Distance Distribution Test: Killed
+
+
+Environement: CartPole-v1, Model ppo, Mutation NDF
+Average Mutated/Healthy Ratio Test : 0.65
+Reward Distribution Test : Killed
+Distance Distribution Test: Killed
+
+
+Environement: CartPole-v1, Model ppo, Mutation NR
+Average Mutated/Healthy Ratio Test : 1.0
+Reward Distribution Test : Killed
+Distance Distribution Test: Killed
+
+
+Environement: CartPole-v1, Model ppo, Mutation MSU
+Average Mutated/Healthy Ratio Test : 1.0
+Reward Distribution Test : Killed
+Distance Distribution Test: Killed
+
+
+Environement: CartPole-v1, Model ppo, Mutation MTS
+Average Mutated/Healthy Ratio Test : 0.05
+Reward Distribution Test : Inconclusive
+Distance Distribution Test: Killed
+
+
+Environement: CartPole-v1, Model ppo, Mutation PAC_ReLU
+Average Mutated/Healthy Ratio Test : 0.05
+Reward Distribution Test : Inconclusive
+Distance Distribution Test: Killed
+
+
+Environement: CartPole-v1, Model ppo, Mutation PAC_Sigmoid
+Average Mutated/Healthy Ratio Test : 0.25
+Reward Distribution Test : Killed
+Distance Distribution Test: Killed
+
+
+Environement: CartPole-v1, Model ppo, Mutation POC_SGD
+Average Mutated/Healthy Ratio Test : 1.0
+Reward Distribution Test : Killed
+Distance Distribution Test: Killed
+
+Environement: CartPole-v1, Model ppo, Mutation M_1.0
+Average Mutated/Healthy Ratio Test : 1.0
+Reward Distribution Test : Killed
+Distance Distribution Test: Killed
+
+
+Environement: CartPole-v1, Model ppo, Mutation R_1.0
+Average Mutated/Healthy Ratio Test : 0.0
+Reward Distribution Test : Not Killed
+Distance Distribution Test: Not Killed
+
+
+Environement: CartPole-v1, Model ppo, Mutation Ra_1.0
+Average Mutated/Healthy Ratio Test : 0.95
+Reward Distribution Test : Killed
+Distance Distribution Test: Killed
+
+
+Environement: CartPole-v1, Model ppo, Mutation RN_1.0
+Average Mutated/Healthy Ratio Test : 0.0
+Reward Distribution Test : Inconclusive
+Distance Distribution Test: Killed
+
+
+################
+###    A2C   ###
+################
+
+Environement: CartPole-v1, Model a2c, Mutation ILF
+Average Mutated/Healthy Ratio Test : 1.0
+Reward Distribution Test : Killed
+Distance Distribution Test: Killed
+
+
+Environement: CartPole-v1, Model a2c, Mutation NDF
+Average Mutated/Healthy Ratio Test : 0.35
+Reward Distribution Test : Killed
+Distance Distribution Test: Killed
+
+
+Environement: CartPole-v1, Model a2c, Mutation NR
+Average Mutated/Healthy Ratio Test : 0.9
+Reward Distribution Test : Killed
+Distance Distribution Test: Killed
+
+
+Environement: CartPole-v1, Model a2c, Mutation MSU
+Average Mutated/Healthy Ratio Test : 1.0
+Reward Distribution Test : Killed
+Distance Distribution Test: Killed
+
+
+Environement: CartPole-v1, Model a2c, Mutation MTS
+Average Mutated/Healthy Ratio Test : 0.05
+Reward Distribution Test : Inconclusive
+Distance Distribution Test: Killed
+
+
+Environement: CartPole-v1, Model a2c, Mutation PAC_ReLU
+Average Mutated/Healthy Ratio Test : 1.0
+Reward Distribution Test : Killed
+Distance Distribution Test: Killed
+
+
+Environement: CartPole-v1, Model a2c, Mutation PAC_Sigmoid
+Average Mutated/Healthy Ratio Test : 0.2
+Reward Distribution Test : Killed
+Distance Distribution Test: Killed
+
+
+Environement: CartPole-v1, Model a2c, Mutation POC_SGD
+Average Mutated/Healthy Ratio Test : 1.0
+Reward Distribution Test : Killed
+Distance Distribution Test: Killed
+
+Environement: CartPole-v1, Model a2c, Mutation M_1.0
+Average Mutated/Healthy Ratio Test : 0.95
+Reward Distribution Test : Killed
+Distance Distribution Test: Killed
+
+
+Environement: CartPole-v1, Model a2c, Mutation R_1.0
+Average Mutated/Healthy Ratio Test : 0.15
+Reward Distribution Test : Not Killed
+Distance Distribution Test: Killed
+
+
+Environement: CartPole-v1, Model a2c, Mutation Ra_1.0
+Average Mutated/Healthy Ratio Test : 1.0
+Reward Distribution Test : Killed
+Distance Distribution Test: Killed
+
+
+Environement: CartPole-v1, Model a2c, Mutation RN_1.0
+Average Mutated/Healthy Ratio Test : 0.25
+Reward Distribution Test : Killed
+Distance Distribution Test: Killed
+
+
+################
+###    DQN   ###
+################
+
+
+Environement: CartPole-v1, Model dqn, Mutation ILF
+Average Mutated/Healthy Ratio Test : 1.0
+Reward Distribution Test : Killed
+Distance Distribution Test: Killed
+
+
+Environement: CartPole-v1, Model dqn, Mutation NDF
+Average Mutated/Healthy Ratio Test : 1.0
+Reward Distribution Test : Killed
+Distance Distribution Test: Killed
+
+
+Environement: CartPole-v1, Model dqn, Mutation MSU
+Average Mutated/Healthy Ratio Test : 1.0
+Reward Distribution Test : Killed
+Distance Distribution Test: Killed
+
+
+Environement: CartPole-v1, Model dqn, Mutation MTS
+Average Mutated/Healthy Ratio Test : 1.0
+Reward Distribution Test : Killed
+Distance Distribution Test: Killed
+
+
+Environement: CartPole-v1, Model dqn, Mutation PAC_Sigmoid
+Average Mutated/Healthy Ratio Test : 0.8
+Reward Distribution Test : Killed
+Distance Distribution Test: Killed
+
+
+Environement: CartPole-v1, Model dqn, Mutation POC_SGD
+Average Mutated/Healthy Ratio Test : 1.0
+Reward Distribution Test : Killed
+Distance Distribution Test: Killed
+
+Environement: CartPole-v1, Model dqn, Mutation M_1.0
+Average Mutated/Healthy Ratio Test : 1.0
+Reward Distribution Test : Killed
+Distance Distribution Test: Killed
+
+
+Environement: CartPole-v1, Model dqn, Mutation R_1.0
+Average Mutated/Healthy Ratio Test : 0.9
+Reward Distribution Test : Killed
+Distance Distribution Test: Killed
+
+
+Environement: CartPole-v1, Model dqn, Mutation Ra_1.0
+Average Mutated/Healthy Ratio Test : 1.0
+Reward Distribution Test : Killed
+Distance Distribution Test: Killed
+
+
+Environement: CartPole-v1, Model dqn, Mutation RN_1.0
+Average Mutated/Healthy Ratio Test : 0.3
+Reward Distribution Test : Inconclusive
+Distance Distribution Test: Not Killed
+
+
+################################################
+################# LUNARLANDER ##################
+################################################
+
+################
+###    PPO   ###
+################
+
+Environement: LunarLander-v2, Model ppo, Mutation ILF
+Average Mutated/Healthy Ratio Test : 1.0
+Reward Distribution Test : Killed
+Distance Distribution Test: Killed
+
+
+Environement: LunarLander-v2, Model ppo, Mutation NDF
+Average Mutated/Healthy Ratio Test : 0.95
+Reward Distribution Test : Killed
+Distance Distribution Test: Killed
+
+
+Environement: LunarLander-v2, Model ppo, Mutation NR
+Average Mutated/Healthy Ratio Test : 1.0
+Reward Distribution Test : Killed
+Distance Distribution Test: Killed
+
+
+Environement: LunarLander-v2, Model ppo, Mutation MSU
+Average Mutated/Healthy Ratio Test : 1.0
+Reward Distribution Test : Killed
+Distance Distribution Test: Killed
+
+
+Environement: LunarLander-v2, Model ppo, Mutation MTS
+Average Mutated/Healthy Ratio Test : 0.05
+Reward Distribution Test : Not Killed
+Distance Distribution Test: Killed
+
+
+Environement: LunarLander-v2, Model ppo, Mutation PAC_ReLU
+Average Mutated/Healthy Ratio Test : 0.05
+Reward Distribution Test : Inconclusive
+Distance Distribution Test: Not Killed
+
+
+Environement: LunarLander-v2, Model ppo, Mutation PAC_Sigmoid
+Average Mutated/Healthy Ratio Test : 0.95
+Reward Distribution Test : Killed
+Distance Distribution Test: Killed
+
+
+Environement: LunarLander-v2, Model ppo, Mutation POC_SGD
+Average Mutated/Healthy Ratio Test : 1.0
+Reward Distribution Test : Killed
+Distance Distribution Test: Killed
+
+Environement: LunarLander-v2, Model ppo, Mutation M_1.0
+Average Mutated/Healthy Ratio Test : 1.0
+Reward Distribution Test : Killed
+Distance Distribution Test: Killed
+
+
+Environement: LunarLander-v2, Model ppo, Mutation R_1.0
+Average Mutated/Healthy Ratio Test : 0.2
+Reward Distribution Test : Inconclusive
+Distance Distribution Test: Not Killed
+
+
+Environement: LunarLander-v2, Model ppo, Mutation Ra_1.0
+Average Mutated/Healthy Ratio Test : 1.0
+Reward Distribution Test : Killed
+Distance Distribution Test: Killed
+
+
+Environement: LunarLander-v2, Model ppo, Mutation RN_1.0
+Average Mutated/Healthy Ratio Test : 0.05
+Reward Distribution Test : Inconclusive
+Distance Distribution Test: Not Killed
+
+
+################
+###    A2C   ###
+################
+
+Environement: LunarLander-v2, Model a2c, Mutation ILF
+Average Mutated/Healthy Ratio Test : 1.0
+Reward Distribution Test : Killed
+Distance Distribution Test: Killed
+
+
+Environement: LunarLander-v2, Model a2c, Mutation NDF
+Average Mutated/Healthy Ratio Test : 0.45
+Reward Distribution Test : Not Killed
+Distance Distribution Test: Killed
+
+
+Environement: LunarLander-v2, Model a2c, Mutation NR
+Average Mutated/Healthy Ratio Test : 0.85
+Reward Distribution Test : Killed
+Distance Distribution Test: Killed
+
+
+Environement: LunarLander-v2, Model a2c, Mutation MSU
+Average Mutated/Healthy Ratio Test : 1.0
+Reward Distribution Test : Killed
+Distance Distribution Test: Killed
+
+
+Environement: LunarLander-v2, Model a2c, Mutation MTS
+Average Mutated/Healthy Ratio Test : 0.45
+Reward Distribution Test : Inconclusive
+Distance Distribution Test: Not Killed
+
+
+Environement: LunarLander-v2, Model a2c, Mutation PAC_ReLU
+Average Mutated/Healthy Ratio Test : 0.2
+Reward Distribution Test : Killed
+Distance Distribution Test: Killed
+
+
+Environement: LunarLander-v2, Model a2c, Mutation PAC_Sigmoid
+Average Mutated/Healthy Ratio Test : 0.6
+Reward Distribution Test : Inconclusive
+Distance Distribution Test: Inconclusive
+
+
+Environement: LunarLander-v2, Model a2c, Mutation POC_SGD
+Average Mutated/Healthy Ratio Test : 1.0
+Reward Distribution Test : Killed
+Distance Distribution Test: Killed
+
+Environement: LunarLander-v2, Model a2c, Mutation M_1.0
+Average Mutated/Healthy Ratio Test : 1.0
+Reward Distribution Test : Killed
+Distance Distribution Test: Killed
+
+
+Environement: LunarLander-v2, Model a2c, Mutation R_1.0
+Average Mutated/Healthy Ratio Test : 0.3
+Reward Distribution Test : Inconclusive
+Distance Distribution Test: Not Killed
+
+
+Environement: LunarLander-v2, Model a2c, Mutation Ra_1.0
+Average Mutated/Healthy Ratio Test : 1.0
+Reward Distribution Test : Killed
+Distance Distribution Test: Killed
+
+
+Environement: LunarLander-v2, Model a2c, Mutation RN_1.0
+Average Mutated/Healthy Ratio Test : 0.45
+Reward Distribution Test : Inconclusive
+Distance Distribution Test: Killed
+
+
+################
+###    DQN   ###
+################
+
+
+Environement: LunarLander-v2, Model dqn, Mutation ILF
+Average Mutated/Healthy Ratio Test : 0.95
+Reward Distribution Test : Killed
+Distance Distribution Test: Killed
+
+
+Environement: LunarLander-v2, Model dqn, Mutation NDF
+Average Mutated/Healthy Ratio Test : 0.95
+Reward Distribution Test : Killed
+Distance Distribution Test: Killed
+
+
+Environement: LunarLander-v2, Model dqn, Mutation MSU
+Average Mutated/Healthy Ratio Test : 0.95
+Reward Distribution Test : Killed
+Distance Distribution Test: Killed
+
+
+Environement: LunarLander-v2, Model dqn, Mutation MTS
+Average Mutated/Healthy Ratio Test : 0.7
+Reward Distribution Test : Not Killed
+Distance Distribution Test: Not Killed
+
+
+Environement: LunarLander-v2, Model dqn, Mutation PAC_Sigmoid
+Average Mutated/Healthy Ratio Test : 0.8
+Reward Distribution Test : Not Killed
+Distance Distribution Test: Killed
+
+
+Environement: LunarLander-v2, Model dqn, Mutation POC_SGD
+Average Mutated/Healthy Ratio Test : 0.95
+Reward Distribution Test : Killed
+Distance Distribution Test: Killed
+
+Environement: LunarLander-v2, Model dqn, Mutation M_1.0
+Average Mutated/Healthy Ratio Test : 0.95
+Reward Distribution Test : Killed
+Distance Distribution Test: Killed
+
+
+Environement: LunarLander-v2, Model dqn, Mutation R_1.0
+Average Mutated/Healthy Ratio Test : 0.9
+Reward Distribution Test : Killed
+Distance Distribution Test: Killed
+
+
+Environement: LunarLander-v2, Model dqn, Mutation Ra_1.0
+Average Mutated/Healthy Ratio Test : 0.95
+Reward Distribution Test : Killed
+Distance Distribution Test: Killed
+
+
+Environement: LunarLander-v2, Model dqn, Mutation RN_1.0
+Average Mutated/Healthy Ratio Test : 0.6
+Reward Distribution Test : Inconclusive
+Distance Distribution Test: Not Killed

@@ -1,0 +1,4 @@
+Mutation;[-4.6875, 0.6];[-11.875, 0.6];[-10.0, 0.3375];[-10.0, 4.346875];[-11.875, 0.3375];[-11.875, 4.346875];[-8.671875, 0.534375];[-6.015625, 3.41015625];[-10.0, 0.6];Total;Properties
+MTS-PAC_Sigmoid;False;False;True;False;False;True;False;False;False;2;Weakly Subsuming and Coupled
+MTS-RN_1.0;False;True;False;False;True;True;True;True;True;6;Weakly Subsuming and Coupled
+PAC_Sigmoid-RN_1.0;False;True;True;False;True;True;False;False;False;4;Weakly Subsuming and Coupled

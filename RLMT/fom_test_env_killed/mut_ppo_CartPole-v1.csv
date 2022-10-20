@@ -1,0 +1,25 @@
+Mutation;[7.234375, 0.1];[1.0, 11.177148437500001];[1.0, 0.1];[4.31201171875, 5.984735107421876];Total
+ILF;True;True;True;True;4
+MSU;True;True;True;True;4
+MTS;True;True;False;True;3
+M_0.05;True;True;True;True;4
+M_0.1;True;True;True;True;4
+M_0.2;True;True;True;True;4
+M_1.0;True;True;True;True;4
+NDF;True;True;True;True;4
+NR;True;True;True;True;4
+PAC_ReLU;True;True;False;True;3
+PAC_Sigmoid;True;True;True;True;4
+POC_SGD;True;True;True;True;4
+Ra_0.05;True;True;True;True;4
+Ra_0.1;True;True;True;True;4
+Ra_0.2;True;True;True;True;4
+Ra_1.0;True;True;True;True;4
+RN_0.05;True;True;False;True;3
+RN_0.1;True;True;False;True;3
+RN_0.2;True;True;False;True;3
+RN_1.0;True;True;False;True;3
+R_0.05;True;False;False;True;2
+R_0.1;False;False;False;False;0
+R_0.2;True;False;False;False;1
+R_1.0;False;False;False;False;0

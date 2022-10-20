@@ -1,0 +1,15 @@
+Mutation;[-13.125, 0.6];[-10.0, 0.22499999999999998];[-1.875, 0.6];[-10.0, 4.828125];[-11.953125, 0.365625];[-13.125, 4.828125];[-1.875, 0.22499999999999998];[-7.96875, 1.65703125];[-10.0, 0.6];Total;Properties
+MTS-PAC_ReLU;False;True;True;False;False;True;True;True;True;6;Weakly Subsuming and Coupled
+MTS-PAC_Sigmoid;True;True;True;True;True;True;False;True;False;7;Non-subsuming
+MTS-RN_1.0;False;False;True;True;True;False;True;False;True;5;Weakly Subsuming and Coupled
+MTS-R_1.0;True;False;True;False;False;True;False;True;False;4;Weakly Subsuming and Coupled
+NDF-MTS;False;True;True;False;False;True;True;True;False;5;Weakly Subsuming and Coupled
+NDF-PAC_ReLU;True;True;True;True;True;True;True;True;True;9;Non-subsuming
+NDF-PAC_Sigmoid;True;True;True;True;True;True;True;True;True;9;Non-subsuming
+RN_1.0-NDF;True;False;True;False;False;True;False;True;True;5;Weakly Subsuming and Coupled
+RN_1.0-PAC_ReLU;False;False;False;False;True;True;False;False;True;3;Weakly Subsuming and Coupled
+RN_1.0-PAC_Sigmoid;True;True;True;True;True;True;True;True;False;8;Non-subsuming
+RN_1.0-R_1.0;True;True;False;False;True;False;False;False;True;4;Weakly Subsuming and Coupled
+R_1.0-NDF;True;True;True;True;True;False;True;True;True;8;Non-subsuming
+R_1.0-PAC_ReLU;False;False;True;True;False;True;False;True;False;4;Weakly Subsuming and Coupled
+R_1.0-PAC_Sigmoid;True;True;True;True;True;True;True;True;False;8;Non-subsuming

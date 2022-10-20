@@ -1,0 +1,7 @@
+Mutation;[-10.0, 0.5249999999999999];[-10.0, 1.871875];[-9.0625, 0.6];[-10.3125, 0.6];[-10.0, 0.6];[-10.078125, 0.91796875];Total;Properties
+MTS-PAC_ReLU;False;True;True;True;False;False;3;Weakly Subsuming and Coupled
+MTS-RN_1.0;False;True;False;True;True;True;4;Weakly Subsuming and Coupled
+MTS-R_1.0;False;True;True;True;True;True;5;Non-subsuming
+PAC_ReLU-RN_1.0;True;True;True;False;False;False;3;Weakly Subsuming and Coupled
+PAC_ReLU-R_1.0;False;False;True;False;False;True;2;Weakly Subsuming and Coupled
+RN_1.0-R_1.0;True;False;False;True;False;True;3;Weakly Subsuming and Coupled

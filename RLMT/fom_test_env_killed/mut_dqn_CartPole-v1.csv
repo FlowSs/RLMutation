@@ -1,0 +1,23 @@
+Mutation;[1.0, 2.1599609375];[2.1875, 0.1];[1.0, 0.1];[1.59375, 1.1299804687500001];Total
+ILF;True;True;True;True;4
+MSU;True;True;True;True;4
+MTS;True;True;True;True;4
+M_0.05;True;True;True;True;4
+M_0.1;True;True;True;True;4
+M_0.2;True;True;True;True;4
+M_1.0;True;True;True;True;4
+NDF;True;True;True;True;4
+PAC_Sigmoid;True;True;True;True;4
+POC_SGD;True;True;True;True;4
+Ra_0.05;True;True;True;True;4
+Ra_0.1;True;True;True;True;4
+Ra_0.2;True;True;True;True;4
+Ra_1.0;True;True;True;True;4
+RN_0.05;False;False;False;False;0
+RN_0.1;False;False;False;False;0
+RN_0.2;False;False;False;False;0
+RN_1.0;False;False;False;False;0
+R_0.05;False;False;False;False;0
+R_0.1;False;False;True;False;1
+R_0.2;False;False;False;False;0
+R_1.0;True;True;True;True;4

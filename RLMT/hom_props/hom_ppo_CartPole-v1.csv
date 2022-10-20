@@ -1,0 +1,4 @@
+Mutation;[7.234375, 0.1];[1.0, 11.177148437500001];[1.0, 0.1];[4.31201171875, 5.984735107421876];Total;Properties
+MTS-PAC_ReLU;True;True;False;True;3;Strongly Subsuming and Coupled
+RN_1.0-MTS;True;True;True;True;4;Non-subsuming
+RN_1.0-PAC_ReLU;True;True;False;True;3;Strongly Subsuming and Coupled
