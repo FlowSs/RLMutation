@@ -127,7 +127,7 @@ we did not find evidence of such fault in the taxonomy we refer to.
 
 ## Training of agents
 
-Trained agents are available on [Zenodo]() as `.zip` file (~ 2GB). The archive should be
+Trained agents are available on [Zenodo](https://zenodo.org/record/6954869) as `.zip` file (~ 2GB). The archive should be
 unzipped in the `experiments/` folder.
 
 If you wish to retrain the agents as we did, you can run the following script:
