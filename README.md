@@ -5,7 +5,6 @@ Based on Real Faults_" submitted to the International Conference on Software Eng
 
 ## Index
 
-- [Architecture](#architecture)
 - [Requirements](#requirements)
 - [Mutation operators comparison with Lu et al. paper](#mutation-operators-comparison-with-lu-et-al-paper)
 - [Training of agents](#training-of-agents)
@@ -14,8 +13,6 @@ Based on Real Faults_" submitted to the International Conference on Software Eng
 - [Generating Test Envs](#generating-test-environments)
 - [Evaluating Higher Order Mutations Props](#evaluating-higher-order-mutation-properties)
 - [References](#references)
-
-## Architecture
 
 ## Requirements
 
