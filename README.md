@@ -1,7 +1,7 @@
 # Mutation Testing for Deep Reinforcement Learning
 
 This replication package is intended for the paper "_Mutation Testing of Deep Reinforcement Learning
-Based on Real Faults_" submitted to the International Conference on Software Engineering (ICST) 2023.
+Based on Real Faults_" submitted to the International Conference on Software Testing (ICST) 2023.
 
 ## Index
 
