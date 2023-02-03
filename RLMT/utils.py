@@ -3,6 +3,10 @@ import numpy as np
 import stable_baselines3
 import torch as th
 
+from patsy import dmatrices
+import statsmodels.api as sm
+import statsmodels.stats.power as pw
+
 from venv import create
 from gym import spaces
 from typing import Any, Dict, List, Optional, Tuple, Type, Union
