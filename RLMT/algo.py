@@ -291,6 +291,7 @@ def determine_boundaries(init_env: EnvConfig, agents: List[Agent], comp_list: Li
                                     curr_up = m
                             mid_bounds.append(list(curr_low))
 
+    mid_bounds = [mid_bounds]
     bounds = [list(x) for x in set(tuple(x) for x in [item for sublist in boundaries + mid_bounds for item in sublist])]
 
     if init_env.init_val not in bounds:
