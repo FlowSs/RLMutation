@@ -1295,7 +1295,7 @@ class MutatedDQN(MutatedOffPolicyAlgorithm):
                     )
                 elif "no_discount_factor" in self.mutation:
                     target_q_values = (
-                            replay_data.rewards + (replay_data.dones) * next_q_values
+                            replay_data.rewards + (1 - replay_data.dones) * next_q_values
                     )
                 else:
                     target_q_values = (
