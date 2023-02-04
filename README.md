@@ -16,6 +16,8 @@ Based on Real Faults_" accepted to the International Conference on Software Test
 
 ## Requirements
 
+Python 3.8 was used alongside the following libraries:
+
 <details>
   <summary>Click to see</summary>
   
