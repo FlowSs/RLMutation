@@ -1,7 +1,8 @@
 # Mutation Testing for Deep Reinforcement Learning
 
 This replication package is intended for the paper "_Mutation Testing of Deep Reinforcement Learning
-Based on Real Faults_" accepted to the International Conference on Software Testing (ICST) 2023.
+Based on Real Faults_" accepted to the International Conference on Software Testing (ICST) 2023. A preprint version is available
+on [arxiv](https://arxiv.org/abs/2301.05651).
 
 ## Index
 
@@ -280,6 +281,28 @@ python hom_prop.py -a ppo -e CartPole-v1 -t r
 ```
 will calculate the killed HOM for each test environments previously generated and stored in `mut_ppo_CartPole-v1.csv`,
 as well as the HOM properties, _i.e._ Subsuming/Non-Subsuming and Coupled/Decoupled. Obtained file is `hom_ppo_CartPole-v1.csv`.
+
+## Hot Fixes
+
+07/02/2023: Error in the 'no_discount_factor' mutation applied to DQN: it should be `(1 - replay_data.dones)` and not `(replay_data.dones)`. Updated the code as well as provided trained agents with the correct mutation in `results/corrected_NDF_DQN/`.
+
+When testing on the initial environment, the following results were obtained with the new agents:
+
+```
+Environement: CartPole-v1, Model dqn, Mutation NDF
+Average Mutated/Healthy Ratio Test : 0.55
+Reward Distribution Test : Killed
+Distance Distribution Test: Killed
+```
+
+```
+Environement: LunarLander-v2, Model dqn, Mutation NDF
+Average Mutated/Healthy Ratio Test : 0.95
+Reward Distribution Test : Killed
+Distance Distribution Test: Killed
+```
+
+i.e. only a change on the AVG method when the environment is CartPole-v1 (from 1.0 to 0.55), rest is unchanged.
 
 ## References
 
